@@ -9,4 +9,5 @@ void main(){
 
   print("Hell,$fname $age $mone $x");
 
+  print("i love my job👍");
 }
